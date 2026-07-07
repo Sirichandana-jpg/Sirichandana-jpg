@@ -26,7 +26,7 @@ I'm currently working on research and real-world AI applications through my inte
 
 * C++
 * Python
-* Java
+* C
 * SQL
 
 **AI / Machine Learning**
@@ -78,16 +78,12 @@ I'm currently working on research and real-world AI applications through my inte
 * Anti-spoofing support
 * PostgreSQL database integration
 
-### 🏥 AI Healthcare Assistant
+### 🏥 AI Healthcare Assistant(MEDIASSIST AI)
 
 * Disease prediction using Machine Learning
 * Mental health support chatbot
 * Emotion detection using Transformers
 
-### 📦 Medicine Stock Prediction
-
-* Forecast medicine demand using Machine Learning
-* Reduce shortages in rural healthcare centres
 
 ### 💻 Data Structures & Algorithms
 
@@ -120,22 +116,12 @@ I'm currently working on research and real-world AI applications through my inte
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/Sirichandana-jpg
+* LinkedIn: https://www.linkedin.com/in/sirichandana-jalagam-330b70292/
+* Email: [jsirichandana295@gmail.com](mailto:jsirichandanna295@gmail.com)
 
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
