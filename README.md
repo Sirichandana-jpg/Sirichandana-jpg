@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**Sirichandana-jpg/Sirichandana-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # Hi there 👋 I'm Sirichandana
 
 ### B.Tech CSE Student | AI & Machine Learning Enthusiast 
