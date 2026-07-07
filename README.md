@@ -4,7 +4,7 @@
 **Sirichandana-jpg/Sirichandana-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there 👋 I'm Sirichandana
 
-### B.Tech CSE Student | AI & Machine Learning Enthusiast
+### B.Tech CSE Student | AI & Machine Learning Enthusiast 
 
 I'm a Computer Science undergraduate at **National Institute of Technology Silchar (NIT Silchar)** with a passion for Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI.
 
